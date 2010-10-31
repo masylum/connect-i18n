@@ -1,0 +1,9 @@
+{
+  "name": "connect-i18n",
+  "description": "Add locales to your request",
+  "version": "0.0.1",
+  "author": "Pau Ramon <masylum@gmail.com>",
+  "main": "./lib/connect-i18n",
+  "engines": { "node": ">= 0.1.98" }
+}
+
