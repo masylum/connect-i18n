@@ -9,3 +9,11 @@ header and adds them to the request.
     app.use(i18n({default_locale: 'es-es'}));
 
     console.log(req.locales);
+
+## options
+
+* default_locale: Sets your default locale
+
+## callback
+
+Hook to implement your own behaviour after parsing the accept-languages header.
