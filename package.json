@@ -1,9 +1,12 @@
 {
   "name": "connect-i18n",
-  "description": "Add locales to your request",
-  "version": "0.0.1",
+  "description": "Accept-language header parser middleware",
+  "version": "0.2.0",
   "author": "Pau Ramon <masylum@gmail.com>",
   "main": "./lib/connect-i18n",
-  "engines": { "node": ">= 0.1.98" }
+  "devDependencies": {
+    "testosterone": ">= 1.2.0"
+  }
+  "engines": { "node": ">= 0.4.0" }
 }
 

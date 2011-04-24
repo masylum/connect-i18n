@@ -1,7 +1,6 @@
 # Connect i18n middleware
 
-Almost inexistant middleware that checks the accept-languages
-header and adds them to the request.
+Accept-languages header parser middleware
 
     npm install 'connect-i18n'
 
@@ -14,6 +13,6 @@ header and adds them to the request.
 
 * default_locale: Sets your default locale
 
-## callback
+## test
 
-Hook to implement your own behaviour after parsing the accept-languages header.
+    make
