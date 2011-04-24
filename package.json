@@ -6,7 +6,7 @@
   "main": "./lib/connect-i18n",
   "devDependencies": {
     "testosterone": ">= 1.2.0"
-  }
+  },
   "engines": { "node": ">= 0.4.0" }
 }
 
